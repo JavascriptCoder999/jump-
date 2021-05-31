@@ -1,3 +1,0 @@
-if(isKeyPressed[space]){
-  
-}
